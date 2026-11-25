@@ -52,11 +52,14 @@ I enjoy learning through hands-on experimentation, evaluating different models, 
 |---|---|---|
 | [Temporal Transformer for Fraud Detection](https://github.com/aydapirandakh-droid/ccfd-temporal-transformer-xai) | Temporal transaction modeling with model comparison and explainability evaluation | Temporal Transformer, Hybrid LSTM-Transformer, SHAP, Integrated Gradients |
 | [Credit Card Fraud Detection – XGBoost, MLP & XAI](https://github.com/aydapirandakh-droid/ccfd-xgboost-mlp-xai) | Fraud detection with comparative model evaluation and quantitative explainability analysis | XGBoost, MLP, SHAP |
-| [Credit Card Fraud Detection – Autoencoder](https://github.com/aydapirandakh-droid/credit-card-fraud-autoencoder) | Unsupervised fraud detection using reconstruction errors and explainability analysis | Deep Autoencoder, Anomaly Detection, XAI |
 | [Temporal Graph Fraud Detection](https://github.com/aydapirandakh-droid/ccfd-temporal-graph-fraud-detection) | Fraud detection through temporal behavioral relationships between transactions | GATv2, Graph Neural Networks |
 | [FT-Transformer & XAI](https://github.com/aydapirandakh-droid/ccfd-ft-transformer-xai) | Tabular fraud detection using attention-based feature analysis and XAI evaluation | FT-Transformer, SHAP |
+| [Credit Card Fraud Detection – Autoencoder](https://github.com/aydapirandakh-droid/credit-card-fraud-autoencoder) | Unsupervised fraud detection using reconstruction errors and explainability analysis | Deep Autoencoder, Anomaly Detection, XAI |
 | [PaySim Temporal Fraud Detection](https://github.com/aydapirandakh-droid/paysim-temporal-fraud-detection) | Fraud detection using sequential financial transaction data | LSTM, Temporal Attention |
 | [Google Stock Price Forecasting](https://github.com/aydapirandakh-droid/google-stock-price-forecasting) | Stock price forecasting using recurrent neural network architectures | RNN, LSTM, GRU |
+| [Customer Segmentation](https://github.com/aydapirandakh-droid/customer-segmentation-clustering) | Customer segmentation using unsupervised learning algorithms | K-Means, DBSCAN, Hierarchical Clustering |
+| [Heart Disease Classification](https://github.com/aydapirandakh-droid/heart-disease-classification) | Binary classification using clinical and demographic features | Logistic Regression, KNN, Decision Tree, SVM |
+| [House Price Prediction](https://github.com/aydapirandakh-droid/house-price-prediction) | House price prediction using regression techniques and property features | Linear Regression, Data Preprocessing, Feature Scaling |
 
 ---
 
